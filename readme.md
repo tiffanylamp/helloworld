@@ -10,5 +10,4 @@ Python
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Youtube](https://www.youtube.com/watch?v=FB4ctVmryis)
